@@ -1,0 +1,62 @@
+
+@font-face{
+	font-family: 'Arial';
+	
+}
+
+
+body {
+	background-color: pink;
+	color: black;
+	font-family: 'Arial';
+
+}
+
+h1,h2,h3 {
+	color: black;
+	font-family: 'Grand Hotel', cursive;
+	
+}
+
+div {
+	background: white;
+    padding: 60px;
+    box-shadow: 0px 10px 30px;
+    border-radius: 10px;
+    width: auto;
+    margin: 70px auto;
+    text-align: center;
+}
+
+.img-circle {
+	border-radius: 50%;
+
+}
+
+.btn-blue {
+
+	background-color: pink;
+	color: black;	
+	padding: 15px 20px;
+	border-radius: 4px;
+	text-decoration: none;
+}
+
+.btn-blue:hover {
+	background-color: pink;
+	color: black;
+	color: white;
+	text-shadow: 2px 1px 1px black;
+}
+
+
+#logo {
+	width: 40px;
+}
+
+.style-logo {
+
+	margin:2px;
+	font-size: 50px;
+	color: #F9429E;
+}
